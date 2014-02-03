@@ -1,4 +1,4 @@
 PolyClip
 ========
 
-Haxe port of AS3PolyClip
+Haxe port of AS3PolyClip library
